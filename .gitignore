@@ -1,0 +1,5 @@
+/spring-app-with-only-security-dependency/target/
+
+*.class
+
+*/.idea/*
